@@ -36,9 +36,9 @@ High School *(2015-2019)*
 
 Best Tutor (Fall 2023)
 
-<!-- Skills -->
+<!-- Contact -->
 ![bongo](/assets/bongo.gif)
-**skills**
+**contact**
 ![bongo](/assets/bongo.gif)
 
 GitHub: [marcorentap](https://github.com/marcorentap)\
