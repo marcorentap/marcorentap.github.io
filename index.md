@@ -5,79 +5,42 @@ permalink: /
 ---
 
 <!-- Introduction -->
-**i**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**n**
-![image](https://cataas.com/cat?height=40&width=40)
-**t**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**r**
-![image](https://cataas.com/cat?height=40&width=40)
-**o**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**d**
-![image](https://cataas.com/cat?height=40&width=40)
-**u**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**c**
-![image](https://cataas.com/cat?height=40&width=40)
-**t**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**i**
-![image](https://cataas.com/cat?height=40&width=40)
-**o**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**n**
+![bongo](/assets/bongo.gif)
+**introduction**
+![bongo](/assets/bongo.gif)
+
+I'm Marc Owen Rentap, a CS undergraduate student at Sungkyunkwan University. I'm
+interested in high performance computing, heterogeneous computing and manycore
+processors.
 
 <!-- Skills -->
-**s**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**k**
-![image](https://cataas.com/cat?height=40&width=40)
-**i**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**l**
-![image](https://cataas.com/cat?height=40&width=40)
-**l**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**s**
+![bongo](/assets/bongo.gif)
+**skills**
+![bongo](/assets/bongo.gif)
+
+Languages: C/C++/Python\
+<!-- Framework: Kokkos, OpenCL -->
+
+<!-- Education -->
+![bongo](/assets/bongo.gif)
+**education**
+![bongo](/assets/bongo.gif)
+
+Sungkyunkwan University *(2020-)*\
+High School *(2015-2019)*
 
 <!-- Achievements and Certifications -->
-**a**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**c**
-![image](https://cataas.com/cat?height=40&width=40)
-**h**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**i**
-![image](https://cataas.com/cat?height=40&width=40)
-**e**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**v**
-![image](https://cataas.com/cat?height=40&width=40)
-**e**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**m**
-![image](https://cataas.com/cat?height=40&width=40)
-**e**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**n**
-![image](https://cataas.com/cat?height=40&width=40)
-**t**
+![bongo](/assets/bongo.gif)
+**achievements**
+![bongo](/assets/bongo.gif)
+
+Best Tutor (Fall 2023)
 
 <!-- Skills -->
-**c**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**o**
-![image](https://cataas.com/cat?height=40&width=40)
-**n**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**t**
-![image](https://cataas.com/cat?height=40&width=40)
-**a**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**c**
-![image](https://cataas.com/cat?height=40&width=40)
-**t**
-![image](https://cataas.com/cat/gif?height=40&width=40)
-**s**
+![bongo](/assets/bongo.gif)
+**skills**
+![bongo](/assets/bongo.gif)
+
+GitHub: [marcorentap](https://github.com/marcorentap)\
+LinkedIn: [marcorentap](https://github.com/marcorentap)\
+Email: [marcorentap@example.com](mailto:marcorentap@example.com)
