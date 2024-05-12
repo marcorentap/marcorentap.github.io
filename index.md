@@ -18,16 +18,15 @@ processors.
 **skills**
 ![bongo](/assets/bongo.gif)
 
-Languages: C/C++/Python\
-<!-- Framework: Kokkos, OpenCL -->
+Languages: C/C++/Python
 
 <!-- Education -->
 ![bongo](/assets/bongo.gif)
 **education**
 ![bongo](/assets/bongo.gif)
 
-Sungkyunkwan University *(2020-)*\
-High School *(2015-2019)*
+Sungkyunkwan University *(Computer Science, 2020-)*\
+Some High School *(Science Track, 2015-2019)*
 
 <!-- Achievements and Certifications -->
 ![bongo](/assets/bongo.gif)
