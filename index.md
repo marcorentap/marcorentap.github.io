@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Blog Archive"
+title: "marc@www"
 permalink: /
 ---
 
